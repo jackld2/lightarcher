@@ -1,5 +1,4 @@
-# lightarcher
-Unity Oculus Rift project
 
-# Light Archer
-## Bro
+# Light Archer: A Virtual Reality Arcade Game
+## Background
+
